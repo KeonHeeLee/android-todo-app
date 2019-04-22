@@ -1,5 +1,10 @@
 # android-todo-app
-Todo-list application to practice android development
 
-- ~ 2019.01.18 : Custom calendar prototype
-- ~ 2019.01.20 : Todo-list in calendar
+> 할일목록 관리 안드로이드 어플리케이션입니다.
+> <br> 현재는 개발중입니다.
+
+## Plan
+
+- ~ 2019-04-23: 기본적인 UI 구성
+- ~ 2019-04-24: 이벤트 처리부 구성 및 코드 정리
+- ~ 2019-04-26: RxJava 적용 및 프로토타입 완성
